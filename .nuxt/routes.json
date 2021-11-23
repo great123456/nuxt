@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/liyuelin/Desktop/web/面试/vue/服务端渲染/nuxt/pages/layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "/Users/liyuelin/Desktop/web/面试/vue/服务端渲染/nuxt/pages/home",
+        "_name": "_4fed60f6"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/Users/liyuelin/Desktop/web/面试/vue/服务端渲染/nuxt/pages/login",
+        "_name": "_a411f39c"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/Users/liyuelin/Desktop/web/面试/vue/服务端渲染/nuxt/pages/login",
+        "_name": "_a411f39c"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "/Users/liyuelin/Desktop/web/面试/vue/服务端渲染/nuxt/pages/profile",
+        "_name": "_3515db9c"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "/Users/liyuelin/Desktop/web/面试/vue/服务端渲染/nuxt/pages/settings",
+        "_name": "_5a6d44ba"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "/Users/liyuelin/Desktop/web/面试/vue/服务端渲染/nuxt/pages/editor",
+        "_name": "_045de3c4"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "/Users/liyuelin/Desktop/web/面试/vue/服务端渲染/nuxt/pages/article",
+        "_name": "_67815502"
+      }
+    ],
+    "_name": "_102cbd81"
+  }
+]
